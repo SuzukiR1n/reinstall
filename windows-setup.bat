@@ -172,7 +172,7 @@ for %%a in (RAM TPM SecureBoot) do (
 )
 
 rem 设置
-set ForceOldSetup=0
+set ForceOldSetup=1
 set EnableUnattended=1
 set EnableEMS=0
 
